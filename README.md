@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=neilkleistgao&theme=radical&hide_border=true&background=FFFFFF00&show_icons=true&include_all_commits=true" />
+
 <!--
 **Ark2000/Ark2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
