@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I enjoy video games, both playing and making!
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ark2000)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
